@@ -1,0 +1,6 @@
+# Lean build artifacts (vendored Mathlib, compiled oleans, etc.)
+.lake/
+*.olean
+
+# macOS
+.DS_Store
